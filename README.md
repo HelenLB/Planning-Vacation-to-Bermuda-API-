@@ -1,2 +1,2 @@
 # Planning-Vacation-to-Bermuda-API-
-Using an API in Python environment to build statistics when would be the best time to visit Bermuda.
+Using a weather API (https://open-meteo.com/) in Python environment to build statistics when would be the best time to visit Bermuda.
